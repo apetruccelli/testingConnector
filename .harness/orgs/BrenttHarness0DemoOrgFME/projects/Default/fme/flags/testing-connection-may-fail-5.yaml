@@ -1,7 +1,7 @@
 fmeResource:
   entityType: FEATURE_FLAG
   name: testing-connection-may-fail-5
-  description: asd
+  description: asd2222
   trafficType: user
   rolloutStatus: Pre-Production
   tags: []
