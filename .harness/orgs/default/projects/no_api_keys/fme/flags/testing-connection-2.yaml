@@ -1,6 +1,7 @@
 fmeResource:
   entityType: FEATURE_FLAG
   name: testing_connection_2
+  description: asd
   trafficType: user
   rolloutStatus: Pre-Production
   tags: []
