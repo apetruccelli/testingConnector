@@ -1,0 +1,7 @@
+fmeResource:
+  entityType: FEATURE_FLAG
+  name: testing_connection_may_fail_1
+  trafficType: user
+  rolloutStatus: Pre-Production
+  tags: []
+  owners: []
