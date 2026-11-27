@@ -1,6 +1,7 @@
 fmeResource:
   entityType: FEATURE_FLAG
   name: manual_1
+  description: new descr
   trafficType: user
   rolloutStatus: Pre-Production
   tags: []
