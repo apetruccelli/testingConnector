@@ -1,0 +1,10 @@
+fmeResource:
+  entityType: FEATURE_FLAG
+  name: testing_connection_3
+  description: asd
+  trafficType: user
+  rolloutStatus: Pre-Production
+  tags: []
+  owners:
+  - type: user
+    id: rjwm_SXOQBiAqedECAHgQg
